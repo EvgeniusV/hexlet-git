@@ -1,2 +1,1 @@
-git is awesome!
-Yes it is!
+no pain no gain
