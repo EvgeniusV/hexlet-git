@@ -1,0 +1,2 @@
+git is awesome!
+Yes it is!
